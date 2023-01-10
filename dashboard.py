@@ -56,7 +56,7 @@ def set_page_header(status):
     # image
     with c1:
         photo = Image.open(
-            'F:\Real Estate Investment Recommendation/dashboard_app/dashboard_app/real_estate_project.jpg')
+            'real_estate_project.jpg')
         st.image(photo)
 
     # title and subtitle
