@@ -84,13 +84,12 @@ def set_page_footer():
     st.markdown('---')
     st.subheader("Data Analysis Project Info:")
     
-    st.markdown('The macro and report dashboards visualization is part of [Real Estate Investment Recommendation System](https://github.com/MikeMadeira/HouseSales-RecommendationSystem) project on github made by **Michael Madeira**.')
+    st.markdown('This Real Estate Recommendation is made by 3422_Sanket Veerkar and 3419_ Jagdish Rathore')
     st.markdown('The main results and procedure can be found on the link above.')
     st.write('')
     st.write('Real Estate Recommendation Dashboard is a recommendation system for Real Estate companies based on data analysis and insights extraction which was tailored to find actionable insights and therefore solutions to the real estate business experts specific problems.')
     st.write('')
-    st.markdown('Other Projects: [DSPortfolio](https://mikemadeira.github.io/data_science_portfolio/)')
-    st.markdown('Contact me: [LinkedIn](https://www.linkedin.com/in/michael-madeira-7b4350a7/)')
+    
     
     
 def set_report_sidebar(data):
